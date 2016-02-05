@@ -5,7 +5,7 @@ var passport = require('passport');
 
 /* GET home page. */
 router.get('/', function(req, res) {
-  res.render('index', { title: "Home - Richie Casto's Website" });
+  res.render('index', { title: "Portfolio of Kelsey Meadows" });
 });
 
 router.get('/admin', function (req, res) {
