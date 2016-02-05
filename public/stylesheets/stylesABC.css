@@ -1,0 +1,51 @@
+<html>
+
+<head>
+
+body {
+		font-size: 14px;
+		font-family: arial, helvetica, sans-serif;
+}
+
+ul { 
+		display: inline
+
+]
+#navigation {
+    display: block;
+    padding: 20px 10px;
+}
+#navigation h1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+}
+
+#content {
+    margin-left: 200px;
+}
+p {
+   
+    text-align: center;
+	color: red;
+	background-color: black;
+	font-size: 2em;
+}
+
+h1 {
+		color: red;
+		background-color: black;
+		text-align: center;
+		font-size: 3em;
+}
+
+h2 {
+    font-size: 2.5em;
+    color: red;
+	background-color: gray;
+    text-align: center;
+}
+</head>
+
+</html>
