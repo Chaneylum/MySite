@@ -1,6 +1,6 @@
 (function () {
 
-	var content = "Suspendisse vel volutpat elit.";
+	var content = "Soon, this button will add BEAUUUUTIMOUS ARTWORK";
 
 	var contentElem;
 
